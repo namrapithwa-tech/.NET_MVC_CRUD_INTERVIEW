@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\.NET_MVC_CRUD_INTERVIEW\\NET_MVC_CRUD_INTERVIEW\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA4C2D8-25B8-4CE2-9C33-0F7A14368CD6}|NET_MVC_CRUD_INTERVIEW.csproj|d:\\b.tech all sem data\\sem-6(4)\\adv.net\\net_all_git_hub\\.net_mvc_crud_interview\\net_mvc_crud_interview\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA4C2D8-25B8-4CE2-9C33-0F7A14368CD6}|NET_MVC_CRUD_INTERVIEW.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA4C2D8-25B8-4CE2-9C33-0F7A14368CD6}|NET_MVC_CRUD_INTERVIEW.csproj|d:\\b.tech all sem data\\sem-6(4)\\adv.net\\net_all_git_hub\\.net_mvc_crud_interview\\net_mvc_crud_interview\\views\\product\\productlistpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BA4C2D8-25B8-4CE2-9C33-0F7A14368CD6}|NET_MVC_CRUD_INTERVIEW.csproj|solutionrelative:views\\product\\productlistpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA4C2D8-25B8-4CE2-9C33-0F7A14368CD6}|NET_MVC_CRUD_INTERVIEW.csproj|d:\\b.tech all sem data\\sem-6(4)\\adv.net\\net_all_git_hub\\.net_mvc_crud_interview\\net_mvc_crud_interview\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BA4C2D8-25B8-4CE2-9C33-0F7A14368CD6}|NET_MVC_CRUD_INTERVIEW.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\.NET_MVC_CRUD_INTERVIEW\\NET_MVC_CRUD_INTERVIEW\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\.NET_MVC_CRUD_INTERVIEW\\NET_MVC_CRUD_INTERVIEW\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAACIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T00:15:33.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductListPage.cshtml",
+              "DocumentMoniker": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\.NET_MVC_CRUD_INTERVIEW\\NET_MVC_CRUD_INTERVIEW\\Views\\Product\\ProductListPage.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\ProductListPage.cshtml",
+              "ToolTip": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\.NET_MVC_CRUD_INTERVIEW\\NET_MVC_CRUD_INTERVIEW\\Views\\Product\\ProductListPage.cshtml",
+              "RelativeToolTip": "Views\\Product\\ProductListPage.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAwwBoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T23:41:24.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\.NET_MVC_CRUD_INTERVIEW\\NET_MVC_CRUD_INTERVIEW\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\.NET_MVC_CRUD_INTERVIEW\\NET_MVC_CRUD_INTERVIEW\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:38:30.927Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

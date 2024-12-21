@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NET_MVC_CRUD_INTERVIEW")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c733c3e0ac42566ee5a927c35699578f561577c6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36adbce2bcb974e5c00707fe336795a2fe113c69")]
 [assembly: System.Reflection.AssemblyProductAttribute("NET_MVC_CRUD_INTERVIEW")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NET_MVC_CRUD_INTERVIEW")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
