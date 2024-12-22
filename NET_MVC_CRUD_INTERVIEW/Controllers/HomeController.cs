@@ -4,6 +4,7 @@ using System.Diagnostics;
 
 namespace NET_MVC_CRUD_INTERVIEW.Controllers
 {
+    [CheckAccess]
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;

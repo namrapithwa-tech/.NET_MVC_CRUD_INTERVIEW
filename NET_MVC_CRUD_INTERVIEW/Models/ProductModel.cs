@@ -8,7 +8,7 @@ namespace NET_MVC_CRUD_INTERVIEW.Models
         [Required]
         public string ProductName { get; set; }
         [Required]
-        public string ProductPrice { get; set; }
+        public decimal ProductPrice { get; set; }
         [Required]
         public string ProductCode { get; set; }
         [Required]

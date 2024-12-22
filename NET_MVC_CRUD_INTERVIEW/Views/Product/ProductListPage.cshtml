@@ -1,6 +1,22 @@
 ﻿@model DataTable
 @using System.Data
 
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["SuccessMessage"]
+    </div>
+}
+
+@if (TempData["ProductInsertMessage"] != null){
+
+	<div class="alert alert-success">
+		@TempData["ProductInsertMessage"]
+	</div>
+}
+
+<h2>Product List</h2>
+<a asp-controller="Product" asp-action="Add_Edit_Product" class="btn btn-primary">Add Product</a>
 <table class="table">
     <thead>
         <tr>
@@ -27,18 +43,10 @@
                 <td>@row["UserID"]</td>
 				<td>@row["UserName"]</td>
                 <td>@row["IsActive"]</td>
-
                 <td>
-                    <a asp-action="Add_Product" asp-route-ProductID="@row["ProductID"]" class="btn btn-outline-primary btn-sm ">Edit</a>
-
-                          <form method="post" asp-controller="Product" asp-action="ProductDelete" style="display:inline;">
-                                <input type="hidden" name="ProductID" value="@row["ProductID"]" />
-                                <button onclick="return confirm('Delete?')" type="submit" class="btn btn-outline-danger btn-sm">
-                                    Delete
-                                </button>
-                            </form>
-                        </td>
-
+                    <a asp-controller="Product" asp-action="Add_Edit_Product" asp-route-ProductID="@row["ProductID"]" class="btn btn-outline-primary btn-sm ">Edit</a>
+                    <a asp-action="ProductDelete" asp-route-ProductID="@row["ProductID"]" class="btn btn-outline-danger btn-sm">Delete</a>
+                </td>
 			</tr>
         }
 

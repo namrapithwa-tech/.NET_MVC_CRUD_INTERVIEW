@@ -3,16 +3,48 @@
   "WorkspaceRootPath": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\.NET_MVC_CRUD_INTERVIEW\\NET_MVC_CRUD_INTERVIEW\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7BA4C2D8-25B8-4CE2-9C33-0F7A14368CD6}|NET_MVC_CRUD_INTERVIEW.csproj|d:\\b.tech all sem data\\sem-6(4)\\adv.net\\net_all_git_hub\\.net_mvc_crud_interview\\net_mvc_crud_interview\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA4C2D8-25B8-4CE2-9C33-0F7A14368CD6}|NET_MVC_CRUD_INTERVIEW.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA4C2D8-25B8-4CE2-9C33-0F7A14368CD6}|NET_MVC_CRUD_INTERVIEW.csproj|d:\\b.tech all sem data\\sem-6(4)\\adv.net\\net_all_git_hub\\.net_mvc_crud_interview\\net_mvc_crud_interview\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BA4C2D8-25B8-4CE2-9C33-0F7A14368CD6}|NET_MVC_CRUD_INTERVIEW.csproj|solutionrelative:views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA4C2D8-25B8-4CE2-9C33-0F7A14368CD6}|NET_MVC_CRUD_INTERVIEW.csproj|d:\\b.tech all sem data\\sem-6(4)\\adv.net\\net_all_git_hub\\.net_mvc_crud_interview\\net_mvc_crud_interview\\views\\shared\\_layout_login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BA4C2D8-25B8-4CE2-9C33-0F7A14368CD6}|NET_MVC_CRUD_INTERVIEW.csproj|solutionrelative:views\\shared\\_layout_login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA4C2D8-25B8-4CE2-9C33-0F7A14368CD6}|NET_MVC_CRUD_INTERVIEW.csproj|d:\\b.tech all sem data\\sem-6(4)\\adv.net\\net_all_git_hub\\.net_mvc_crud_interview\\net_mvc_crud_interview\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BA4C2D8-25B8-4CE2-9C33-0F7A14368CD6}|NET_MVC_CRUD_INTERVIEW.csproj|solutionrelative:views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA4C2D8-25B8-4CE2-9C33-0F7A14368CD6}|NET_MVC_CRUD_INTERVIEW.csproj|d:\\b.tech all sem data\\sem-6(4)\\adv.net\\net_all_git_hub\\.net_mvc_crud_interview\\net_mvc_crud_interview\\views\\shared\\_layout_register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BA4C2D8-25B8-4CE2-9C33-0F7A14368CD6}|NET_MVC_CRUD_INTERVIEW.csproj|solutionrelative:views\\shared\\_layout_register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA4C2D8-25B8-4CE2-9C33-0F7A14368CD6}|NET_MVC_CRUD_INTERVIEW.csproj|d:\\b.tech all sem data\\sem-6(4)\\adv.net\\net_all_git_hub\\.net_mvc_crud_interview\\net_mvc_crud_interview\\checkaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA4C2D8-25B8-4CE2-9C33-0F7A14368CD6}|NET_MVC_CRUD_INTERVIEW.csproj|solutionrelative:checkaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA4C2D8-25B8-4CE2-9C33-0F7A14368CD6}|NET_MVC_CRUD_INTERVIEW.csproj|d:\\b.tech all sem data\\sem-6(4)\\adv.net\\net_all_git_hub\\.net_mvc_crud_interview\\net_mvc_crud_interview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA4C2D8-25B8-4CE2-9C33-0F7A14368CD6}|NET_MVC_CRUD_INTERVIEW.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA4C2D8-25B8-4CE2-9C33-0F7A14368CD6}|NET_MVC_CRUD_INTERVIEW.csproj|d:\\b.tech all sem data\\sem-6(4)\\adv.net\\net_all_git_hub\\.net_mvc_crud_interview\\net_mvc_crud_interview\\commonvariable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA4C2D8-25B8-4CE2-9C33-0F7A14368CD6}|NET_MVC_CRUD_INTERVIEW.csproj|solutionrelative:commonvariable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA4C2D8-25B8-4CE2-9C33-0F7A14368CD6}|NET_MVC_CRUD_INTERVIEW.csproj|d:\\b.tech all sem data\\sem-6(4)\\adv.net\\net_all_git_hub\\.net_mvc_crud_interview\\net_mvc_crud_interview\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA4C2D8-25B8-4CE2-9C33-0F7A14368CD6}|NET_MVC_CRUD_INTERVIEW.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7BA4C2D8-25B8-4CE2-9C33-0F7A14368CD6}|NET_MVC_CRUD_INTERVIEW.csproj|d:\\b.tech all sem data\\sem-6(4)\\adv.net\\net_all_git_hub\\.net_mvc_crud_interview\\net_mvc_crud_interview\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BA4C2D8-25B8-4CE2-9C33-0F7A14368CD6}|NET_MVC_CRUD_INTERVIEW.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BA4C2D8-25B8-4CE2-9C33-0F7A14368CD6}|NET_MVC_CRUD_INTERVIEW.csproj|d:\\b.tech all sem data\\sem-6(4)\\adv.net\\net_all_git_hub\\.net_mvc_crud_interview\\net_mvc_crud_interview\\views\\product\\productlistpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7BA4C2D8-25B8-4CE2-9C33-0F7A14368CD6}|NET_MVC_CRUD_INTERVIEW.csproj|solutionrelative:views\\product\\productlistpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BA4C2D8-25B8-4CE2-9C33-0F7A14368CD6}|NET_MVC_CRUD_INTERVIEW.csproj|d:\\b.tech all sem data\\sem-6(4)\\adv.net\\net_all_git_hub\\.net_mvc_crud_interview\\net_mvc_crud_interview\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7BA4C2D8-25B8-4CE2-9C33-0F7A14368CD6}|NET_MVC_CRUD_INTERVIEW.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7BA4C2D8-25B8-4CE2-9C33-0F7A14368CD6}|NET_MVC_CRUD_INTERVIEW.csproj|d:\\b.tech all sem data\\sem-6(4)\\adv.net\\net_all_git_hub\\.net_mvc_crud_interview\\net_mvc_crud_interview\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA4C2D8-25B8-4CE2-9C33-0F7A14368CD6}|NET_MVC_CRUD_INTERVIEW.csproj|solutionrelative:models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,46 +54,144 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\.NET_MVC_CRUD_INTERVIEW\\NET_MVC_CRUD_INTERVIEW\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\.NET_MVC_CRUD_INTERVIEW\\NET_MVC_CRUD_INTERVIEW\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAACIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-21T00:15:33.009Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProductListPage.cshtml",
-              "DocumentMoniker": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\.NET_MVC_CRUD_INTERVIEW\\NET_MVC_CRUD_INTERVIEW\\Views\\Product\\ProductListPage.cshtml",
-              "RelativeDocumentMoniker": "Views\\Product\\ProductListPage.cshtml",
-              "ToolTip": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\.NET_MVC_CRUD_INTERVIEW\\NET_MVC_CRUD_INTERVIEW\\Views\\Product\\ProductListPage.cshtml",
-              "RelativeToolTip": "Views\\Product\\ProductListPage.cshtml",
-              "ViewState": "AQIAABAAAAAAAAAAAAAwwBoAAAAnAAAA",
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\.NET_MVC_CRUD_INTERVIEW\\NET_MVC_CRUD_INTERVIEW\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Login.cshtml",
+              "ToolTip": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\.NET_MVC_CRUD_INTERVIEW\\NET_MVC_CRUD_INTERVIEW\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "Views\\User\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-20T23:41:24.261Z",
+              "WhenOpened": "2024-12-22T09:44:27.238Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\.NET_MVC_CRUD_INTERVIEW\\NET_MVC_CRUD_INTERVIEW\\Views\\User\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Register.cshtml",
+              "ToolTip": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\.NET_MVC_CRUD_INTERVIEW\\NET_MVC_CRUD_INTERVIEW\\Views\\User\\Register.cshtml",
+              "RelativeToolTip": "Views\\User\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T09:43:35.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\.NET_MVC_CRUD_INTERVIEW\\NET_MVC_CRUD_INTERVIEW\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\.NET_MVC_CRUD_INTERVIEW\\NET_MVC_CRUD_INTERVIEW\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T09:36:16.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CommonVariable.cs",
+              "DocumentMoniker": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\.NET_MVC_CRUD_INTERVIEW\\NET_MVC_CRUD_INTERVIEW\\CommonVariable.cs",
+              "RelativeDocumentMoniker": "CommonVariable.cs",
+              "ToolTip": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\.NET_MVC_CRUD_INTERVIEW\\NET_MVC_CRUD_INTERVIEW\\CommonVariable.cs",
+              "RelativeToolTip": "CommonVariable.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T09:35:35.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CheckAccess.cs",
+              "DocumentMoniker": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\.NET_MVC_CRUD_INTERVIEW\\NET_MVC_CRUD_INTERVIEW\\CheckAccess.cs",
+              "RelativeDocumentMoniker": "CheckAccess.cs",
+              "ToolTip": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\.NET_MVC_CRUD_INTERVIEW\\NET_MVC_CRUD_INTERVIEW\\CheckAccess.cs",
+              "RelativeToolTip": "CheckAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T09:35:02.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout_Login.cshtml",
+              "DocumentMoniker": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\.NET_MVC_CRUD_INTERVIEW\\NET_MVC_CRUD_INTERVIEW\\Views\\Shared\\_Layout_Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout_Login.cshtml",
+              "ToolTip": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\.NET_MVC_CRUD_INTERVIEW\\NET_MVC_CRUD_INTERVIEW\\Views\\Shared\\_Layout_Login.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout_Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T09:26:28.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\.NET_MVC_CRUD_INTERVIEW\\NET_MVC_CRUD_INTERVIEW\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "Models\\UserModel.cs",
+              "ToolTip": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\.NET_MVC_CRUD_INTERVIEW\\NET_MVC_CRUD_INTERVIEW\\Models\\UserModel.cs",
+              "RelativeToolTip": "Models\\UserModel.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAkwCIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T09:11:16.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "ProductController.cs",
               "DocumentMoniker": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\.NET_MVC_CRUD_INTERVIEW\\NET_MVC_CRUD_INTERVIEW\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
               "ToolTip": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\.NET_MVC_CRUD_INTERVIEW\\NET_MVC_CRUD_INTERVIEW\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAzwCEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T23:38:30.927Z",
+              "WhenOpened": "2024-12-22T09:01:42.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\.NET_MVC_CRUD_INTERVIEW\\NET_MVC_CRUD_INTERVIEW\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\.NET_MVC_CRUD_INTERVIEW\\NET_MVC_CRUD_INTERVIEW\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAgwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:58:27.753Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout_Register.cshtml",
+              "DocumentMoniker": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\.NET_MVC_CRUD_INTERVIEW\\NET_MVC_CRUD_INTERVIEW\\Views\\Shared\\_Layout_Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout_Register.cshtml",
+              "ToolTip": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\.NET_MVC_CRUD_INTERVIEW\\NET_MVC_CRUD_INTERVIEW\\Views\\Shared\\_Layout_Register.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout_Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T08:43:23.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\.NET_MVC_CRUD_INTERVIEW\\NET_MVC_CRUD_INTERVIEW\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\.NET_MVC_CRUD_INTERVIEW\\NET_MVC_CRUD_INTERVIEW\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T09:39:49.91Z"
             }
           ]
         }
